@@ -6,7 +6,8 @@
 Bot_Token: "PUT-BOT-TOKEN-HERE"
 # This is your bot application's token. You can get this by going to discord's developer portal, creating an application, then turning the application into a bot.
 Bot_Key: "PUT-BOT-KEY-HERE"
-# This is the bot's key. You can get a key by joining our Discord (https://corebot.dev/support) and verifying that you purchased the bot.
+# This is the bot's key. You can get a key by joining our Discord (https://corebot.dev/support) and verifying that you purchased the bot. 
+#LEAVE THIS LIKE THIS, YOU DO NOT NEED IT SINCE IT IS CRACKED.
 Bot_Prefix: "-"
 # This is the symbol you will have to use to run all of CoreBot's commands.
 Theme_Color: "#ffffff"
